@@ -1,2 +1,2 @@
-# medicine-management-system
-The project uses c++
+# Medicine-Management-System
+The project uses concepts of c++
